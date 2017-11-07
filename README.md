@@ -1,5 +1,7 @@
 # Dependency cruiser ![Dependency cruiser](https://raw.githubusercontent.com/sverweij/dependency-cruiser/master/doc/assets/ZKH-Dependency-recolored-160.png)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jamesjuarez1968/dependency-cruiser.svg)](https://greenkeeper.io/)
+
 _Validate and visualize dependencies. With your rules._ JavaScript. TypeScript. CoffeeScript. ES6, CommonJS, AMD.
 
 ## What's this do?
